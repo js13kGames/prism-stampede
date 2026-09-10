@@ -7,7 +7,7 @@ Prism Stampede is a colorful arcade-puzzle game where a cloud-riding unicorn mus
 
 Unlike a traditional block-breaking game, every shot is also a routing decision. Sparks begin white and gain color as they pass through prisms, so the angle, order, and color of a shot matter as much as the target it hits.
 
-<img width="1254" height="1254" alt="prism-stampede-thumbnail" src="https://github.com/user-attachments/assets/4fe5b942-bbf3-4099-85b2-d1e1052198ca" />
+<img width="320" height="320" alt="prism-stampede-thumbnail-320x320" src="https://github.com/user-attachments/assets/33f71870-73d0-4a94-bc9c-067610b4bd28" />
 
 ## ✨ Features
 
